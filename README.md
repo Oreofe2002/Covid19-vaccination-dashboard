@@ -3,7 +3,7 @@
 An interactive, responsive dual-page business intelligence application built using Python (Pandas) for data engineering and Tableau Public for analytical dashboard architecture.
 
 ## 📊 Live Interactive Dashboards
-👉 [Click here to view the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/oreofe.posun/viz/Covid-19_17869612460520/Covid-Dashboard)
+👉 [https://public.tableau.com/app/profile/oreofe.posun/viz/Covid-19_17869612460520/Covid-Dashboard]
 
 ---
 
